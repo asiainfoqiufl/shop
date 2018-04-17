@@ -15,6 +15,7 @@ public class MySwingClass extends javax.swing.JFrame {
 	/** Creates new form MySwingClass */
 	public MySwingClass() {
 		initComponents();
+		//fdfdfd
 	}
 
 	/** This method is called from within the constructor to
